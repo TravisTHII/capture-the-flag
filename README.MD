@@ -2,7 +2,7 @@
 
 ## Coding Challenge
 
-Thanks for applying to Ramp. Solve this CTF[1] challenge.
+Solve this CTF[1] challenge.
 
 \[1\]: https://en.wikipedia.org/wiki/Capture_the_flag_(cybersecurity)
 
