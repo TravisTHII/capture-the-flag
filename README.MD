@@ -1,8 +1,6 @@
 # Capture The Flag
 
-## Coding Challenge
-
-Solve this CTF[1] challenge.
+Coding Challenge - Solve this CTF[1] challenge.
 
 \[1\]: https://en.wikipedia.org/wiki/Capture_the_flag_(cybersecurity)
 
